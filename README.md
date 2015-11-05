@@ -1,4 +1,5 @@
 # 超强vim配置文件
+# TEST
 
 [![Build Status](https://travis-ci.org/ma6174/vim.png?branch=master)](https://travis-ci.org/ma6174/vim)
 
